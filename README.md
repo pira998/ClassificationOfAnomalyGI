@@ -1,5 +1,5 @@
 # ClassificationOfAnomalyGI
-Download the file 
-Open Google Colab
-Go to the File Menu
-Upload this Notebook 
+Download the file \br
+Open Google Colab \br
+Go to the File Menu \br
+Upload this Notebook \br
